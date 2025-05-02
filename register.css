@@ -1,0 +1,52 @@
+body{
+    background-image: url(./IMG-20250216-WA0002.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    
+    .margan{
+        margin-top: 100px;
+    }
+    input{
+        width: 300px;
+        height: 28px;
+        border-radius: 10px;
+    }
+    form {
+        background-color: #dbf6ff;
+        
+        padding: 20px;
+        text-align: center;
+        border-radius: 15px;
+        max-width: 300px;
+        height: 410px;
+        margin: auto;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .wid{
+        color: white;
+        text-decoration: none;
+    }
+    button {
+        background-color: #007bff;
+        font-weight: bold;
+        cursor: pointer;
+        margin-top: 50px;
+        width: 250px;
+        height: 30px;
+        border-radius: 10px ;
+        border: none;
+      }
+    
+      
+      button:hover {
+        background-color: #0056b3;
+      }
+    
+    label{
+        margin-top: 10px;
+        display: block;
+    }
+    p{
+        margin-top: 50px;
+    }

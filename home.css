@@ -1,0 +1,26 @@
+body{
+    background-image: url(./IMG-20250216-WA0018.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    color: rgb(2, 2, 2);
+    margin-top: 350px;
+}
+.but{
+    height: 35px;
+    width: 90px;
+    border-radius: 5px;
+    margin-left: 750px;
+    background-color: blue;
+    transition: 1s;
+}
+.but:hover{
+    background-color: red ;
+    transform: scale(1.1);
+    cursor: pointer;
+    border: none;
+
+}
